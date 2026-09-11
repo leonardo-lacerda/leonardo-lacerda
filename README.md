@@ -52,11 +52,11 @@ Atuo na interseção entre operação comercial, gestão de pipeline e automaç�
 </p>
 
 
-## 📊 Contribuições e ritmo de entrega
+## 🧭 Do código ao resultado
 
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2563EB/leonardo-lacerda" width="100%" alt="Gráfico de contribuições e ritmo de entrega no GitHub" />
+  <img src="https://raw.githubusercontent.com/leonardo-lacerda/leonardo-lacerda/main/profile-impact.svg" width="100%" alt="Do código ao resultado: ideia, processo, automação e impacto" />
 </p>
 
 
