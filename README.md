@@ -56,7 +56,7 @@ Atuo na interseção entre operação comercial, gestão de pipeline e automaç�
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardo-lacerda&bg_color=ffffff&color=2563EB&line=7C3AED&point=DB2777&area=true&hide_border=true&custom_title=Atividade%20de%20desenvolvimento%20e%20entregas" width="100%" alt="Gráfico de contribuições e ritmo de entrega no GitHub" />
+  <img src="https://ghchart.rshah.org/2563EB/leonardo-lacerda" width="100%" alt="Gráfico de contribuições e ritmo de entrega no GitHub" />
 </p>
 
 
