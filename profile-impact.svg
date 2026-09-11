@@ -1,76 +1,78 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-  <title id="title">Do código ao resultado</title>
-  <desc id="desc">Uma visão simples de como Leonardo conecta ideias, processos, automação e impacto.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">Gráfico de contribuições de Leonardo Lacerda no GitHub</title>
+  <desc id="desc">1.248 contribuições no último ano, sendo 99 por cento commits e 1 por cento pull requests.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0B1020"/>
-      <stop offset="1" stop-color="#15102B"/>
+      <stop offset="0" stop-color="#080D1B"/>
+      <stop offset="0.55" stop-color="#111A35"/>
+      <stop offset="1" stop-color="#1D1235"/>
     </linearGradient>
-    <linearGradient id="bluePurple" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#2563EB"/>
-      <stop offset="1" stop-color="#7C3AED"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.52" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#D946EF"/>
     </linearGradient>
-    <linearGradient id="purplePink" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#7C3AED"/>
-      <stop offset="1" stop-color="#DB2777"/>
+    <linearGradient id="commitBar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#6366F1"/>
     </linearGradient>
-    <linearGradient id="pinkOrange" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#DB2777"/>
+    <linearGradient id="prBar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#D946EF"/>
       <stop offset="1" stop-color="#F97316"/>
     </linearGradient>
-    <linearGradient id="orangeGreen" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#F97316"/>
-      <stop offset="1" stop-color="#22C55E"/>
-    </linearGradient>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
-      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#000000" flood-opacity="0.28"/>
+      <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#000000" flood-opacity="0.35"/>
     </filter>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="18" result="blur"/>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="16" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
 
-  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
-  <circle cx="1080" cy="60" r="150" fill="#7C3AED" opacity="0.12" filter="url(#glow)"/>
-  <circle cx="1020" cy="380" r="120" fill="#2563EB" opacity="0.10" filter="url(#glow)"/>
+  <rect width="1200" height="560" rx="30" fill="url(#bg)"/>
+  <circle cx="1080" cy="45" r="170" fill="#7C3AED" opacity="0.16" filter="url(#glow)"/>
+  <circle cx="980" cy="520" r="150" fill="#06B6D4" opacity="0.10" filter="url(#glow)"/>
 
-  <text x="72" y="58" fill="#A78BFA" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2.5">GITHUB • OPERAÇÕES &amp; AUTOMAÇÃO</text>
-  <text x="72" y="110" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="750">Do código ao resultado</text>
-  <text x="72" y="145" fill="#B8C1D9" font-family="Segoe UI, Arial, sans-serif" font-size="18">Projetos que conectam processos, dados e tecnologia.</text>
-  <text x="72" y="186" fill="#7C3AED" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">MINHA FORMA DE CRIAR VALOR</text>
-  <line x1="72" y1="205" x2="1128" y2="205" stroke="#2A3150" stroke-width="1"/>
+  <text x="72" y="56" fill="#67E8F9" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2.4">GITHUB ACTIVITY • ÚLTIMOS 12 MESES</text>
+  <text x="72" y="112" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="750">Ritmo de entrega</text>
+  <text x="72" y="147" fill="#AAB7D6" font-family="Segoe UI, Arial, sans-serif" font-size="18">Contribuições que mostram consistência, execução e evolução.</text>
+  <line x1="72" y1="180" x2="1128" y2="180" stroke="#2A3658" stroke-width="1"/>
 
   <g filter="url(#shadow)">
-    <rect x="72" y="235" width="238" height="118" rx="18" fill="#11182B" stroke="#293556"/>
-    <rect x="72" y="235" width="238" height="5" rx="2.5" fill="url(#bluePurple)"/>
-    <circle cx="101" cy="271" r="18" fill="#2563EB"/>
-    <text x="101" y="276" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">01</text>
-    <text x="96" y="311" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">IDEIA</text>
-    <text x="96" y="334" fill="#AAB5D1" font-family="Segoe UI, Arial, sans-serif" font-size="13">Entendo o problema</text>
-
-    <rect x="342" y="235" width="238" height="118" rx="18" fill="#11182B" stroke="#293556"/>
-    <rect x="342" y="235" width="238" height="5" rx="2.5" fill="url(#purplePink)"/>
-    <circle cx="371" cy="271" r="18" fill="#7C3AED"/>
-    <text x="371" y="276" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">02</text>
-    <text x="366" y="311" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">PROCESSO</text>
-    <text x="366" y="334" fill="#AAB5D1" font-family="Segoe UI, Arial, sans-serif" font-size="13">Organizo o fluxo</text>
-
-    <rect x="612" y="235" width="238" height="118" rx="18" fill="#11182B" stroke="#293556"/>
-    <rect x="612" y="235" width="238" height="5" rx="2.5" fill="url(#pinkOrange)"/>
-    <circle cx="641" cy="271" r="18" fill="#DB2777"/>
-    <text x="641" y="276" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">03</text>
-    <text x="636" y="311" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">AUTOMAÇÃO</text>
-    <text x="636" y="334" fill="#AAB5D1" font-family="Segoe UI, Arial, sans-serif" font-size="13">Conecto as ferramentas</text>
-
-    <rect x="882" y="235" width="238" height="118" rx="18" fill="#11182B" stroke="#293556"/>
-    <rect x="882" y="235" width="238" height="5" rx="2.5" fill="url(#orangeGreen)"/>
-    <circle cx="911" cy="271" r="18" fill="#F97316"/>
-    <text x="911" y="276" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">04</text>
-    <text x="906" y="311" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">IMPACTO</text>
-    <text x="906" y="334" fill="#AAB5D1" font-family="Segoe UI, Arial, sans-serif" font-size="13">Entrego uma operação melhor</text>
+    <rect x="72" y="214" width="410" height="260" rx="22" fill="#0D152A" stroke="#293A63"/>
+    <rect x="72" y="214" width="410" height="6" rx="3" fill="url(#accent)"/>
+    <text x="104" y="263" fill="#8FA3C9" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">TOTAL DE CONTRIBUIÇÕES</text>
+    <text x="101" y="357" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="102" font-weight="800">1.248</text>
+    <text x="106" y="399" fill="#C7D2FE" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">contribuições no último ano</text>
+    <circle cx="425" cy="270" r="25" fill="#13264B" stroke="#22D3EE" stroke-width="2"/>
+    <path d="M414 270h22M425 259v22" stroke="#67E8F9" stroke-width="3" stroke-linecap="round"/>
+    <text x="106" y="445" fill="#64749A" font-family="Segoe UI, Arial, sans-serif" font-size="14">Um histórico público de construção contínua.</text>
   </g>
 
-  <text x="72" y="392" fill="#7180A5" font-family="Segoe UI, Arial, sans-serif" font-size="13">REVOPS   /   CRM   /   GROWTH OPERATIONS</text>
-  <text x="1128" y="392" text-anchor="end" fill="#7180A5" font-family="Segoe UI, Arial, sans-serif" font-size="13">LEONARDO LACERDA</text>
+  <g filter="url(#shadow)">
+    <rect x="516" y="214" width="612" height="260" rx="22" fill="#0D152A" stroke="#293A63"/>
+    <text x="550" y="263" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Como esse ritmo acontece?</text>
+    <text x="550" y="291" fill="#8FA3C9" font-family="Segoe UI, Arial, sans-serif" font-size="15">A maior parte da atividade está concentrada em entrega de código.</text>
+
+    <circle cx="665" cy="375" r="72" fill="none" stroke="#263653" stroke-width="22"/>
+    <circle cx="665" cy="375" r="72" fill="none" stroke="url(#commitBar)" stroke-width="22" stroke-linecap="round" stroke-dasharray="448 5" transform="rotate(-90 665 375)"/>
+    <circle cx="665" cy="375" r="72" fill="none" stroke="url(#prBar)" stroke-width="22" stroke-linecap="round" stroke-dasharray="5 448" stroke-dashoffset="-448" transform="rotate(-90 665 375)"/>
+    <text x="665" y="371" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="800">99%</text>
+    <text x="665" y="397" text-anchor="middle" fill="#8FA3C9" font-family="Segoe UI, Arial, sans-serif" font-size="13">commits</text>
+
+    <text x="785" y="348" fill="#67E8F9" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="800">99%</text>
+    <text x="885" y="348" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Commits</text>
+    <text x="785" y="377" fill="#D946EF" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="800">1%</text>
+    <text x="840" y="377" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Pull requests</text>
+    <rect x="785" y="407" width="280" height="12" rx="6" fill="#263653"/>
+    <rect x="785" y="407" width="277" height="12" rx="6" fill="url(#commitBar)"/>
+    <rect x="1062" y="407" width="3" height="12" rx="1.5" fill="url(#prBar)"/>
+    <text x="785" y="447" fill="#64749A" font-family="Segoe UI, Arial, sans-serif" font-size="14">Foco claro em colocar soluções para funcionar.</text>
+  </g>
+
+  <g>
+    <rect x="72" y="504" width="1056" height="2" fill="#2A3658"/>
+    <text x="72" y="536" fill="#7183A8" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.8">REVOPS / CRM / GROWTH OPERATIONS</text>
+    <text x="1128" y="536" text-anchor="end" fill="#7183A8" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.8">LEONARDO LACERDA</text>
+  </g>
 </svg>
