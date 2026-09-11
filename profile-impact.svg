@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
   <title id="title">Gráfico de contribuições de Leonardo Lacerda no GitHub</title>
-  <desc id="desc">1.248 contribuições no último ano, sendo 99 por cento commits e 1 por cento pull requests.</desc>
+  <desc id="desc">Mais de 1.250 contribuições no último ano, sendo 99 por cento commits e 1 por cento pull requests.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#080D1B"/>
@@ -42,7 +42,7 @@
     <rect x="72" y="214" width="410" height="260" rx="22" fill="#0D152A" stroke="#293A63"/>
     <rect x="72" y="214" width="410" height="6" rx="3" fill="url(#accent)"/>
     <text x="104" y="263" fill="#8FA3C9" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">TOTAL DE CONTRIBUIÇÕES</text>
-    <text x="101" y="357" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="102" font-weight="800">1.248</text>
+    <text x="101" y="357" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="102" font-weight="800">1.250+</text>
     <text x="106" y="399" fill="#C7D2FE" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">contribuições no último ano</text>
     <circle cx="425" cy="270" r="25" fill="#13264B" stroke="#22D3EE" stroke-width="2"/>
     <path d="M414 270h22M425 259v22" stroke="#67E8F9" stroke-width="3" stroke-linecap="round"/>
