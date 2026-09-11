@@ -52,11 +52,11 @@ Atuo na interseção entre operação comercial, gestão de pipeline e automaç�
 </p>
 
 
-## 🧭 Do código ao resultado
+## 📊 Minhas contribuições em ação
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/leonardo-lacerda/leonardo-lacerda/main/profile-impact.svg" width="100%" alt="Do código ao resultado: ideia, processo, automação e impacto" />
+  <img src="https://raw.githubusercontent.com/leonardo-lacerda/leonardo-lacerda/main/profile-impact.svg" width="100%" alt="Gráfico de contribuições de Leonardo Lacerda no GitHub" />
 </p>
 
 
